@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**hwangboksil/hwangboksil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25``" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png"></code>
 -->
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangboksil&count_private=true&show_icons=true&theme=radical&hide=stars)
+| <a href="https://github.com/hwangboksil/hwangboksil/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangboksil&layout=compact&hide_border=true" /></a> | <a href="https://github.com/hwangboksil/hwangboksil/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hwangboksil&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&count_private=true" alt="Anurag's github stats" /></a> |
+| ------------- | ------------- |
